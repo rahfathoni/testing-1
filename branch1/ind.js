@@ -1,4 +1,4 @@
 if (true) {
-    let a = wwwwwwwwww3 0;
+    let a = wwwwwwwwww3;
     let c = 0;
 } 
