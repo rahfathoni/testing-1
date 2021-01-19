@@ -1,3 +1,4 @@
 if (true) {
-    let a = 0;
-}
+    let a = wwwwwwwwww3 0;
+    let c = 0;
+} 
